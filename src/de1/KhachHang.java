@@ -6,8 +6,8 @@ public abstract class KhachHang {
 		 Khachhang khachhang = new Khachhang();
 		 khachhang.NhapTTKH();
 		 System.out.println("MaKH:"+khachhang.MaKH+);
-		 System.out.println("TenKH:"+khachhang.MaKH+);
-		 System.out.println("SDT:"+khachhang.MaKH+);
+		 System.out.println("TenKH:"+khachhang.TenKH+);
+		 System.out.println("SDT:"+khachhang.SDT+);
 		 khachhang.HienThiTTKH();
 	 }
 class Khachhang
