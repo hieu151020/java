@@ -1,5 +1,9 @@
 package de1;
+import java.util.Scanner;
 
-public class HoaDon {
+public abstract class Hoadon {
+  	 public static void main(String[] args) {
 
+     }
+  class HoaDon
 }
